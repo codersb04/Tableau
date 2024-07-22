@@ -7,6 +7,7 @@ I did the course from ["Alex The Analyst"](https://www.youtube.com/watch?v=6xv1K
 I used Tableau Public here, topics covered are:
 - How to use [Tableau Public](https://www.tableau.com/products/public/download) (Download and Installation).
 - Load the data to Tableau, Creating worksheet
+- Create Bin and doing calculations on fields
 - Perform Joins on 2 or more tables
 - Create Dashboard.</br></br></br>
 
